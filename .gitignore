@@ -1,0 +1,4 @@
+node_modules
+dist
+setEnv.sh
+package-lock.json
